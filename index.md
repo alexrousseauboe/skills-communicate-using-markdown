@@ -5,4 +5,6 @@
 
 Added some headers
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```R
+df <- mutate(test = var*2)
+```

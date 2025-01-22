@@ -10,6 +10,8 @@ Added some headers
 df <- mutate(test = var*2)
 ```
 
+```md
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+```
